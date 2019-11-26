@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-Hello. I`m Orysia. I`m studing GitHub. 
+Hello. I'm Orysia. I'm studing GitHub. 
